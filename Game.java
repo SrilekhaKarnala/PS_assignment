@@ -20,3 +20,14 @@ public class Game {
 
     }
 }
+
+}
+
+// Algorithm
+/*
+count no. of odd numbers 
+if oddcount==0 or odd 
+alice wins 
+else
+bob wins 
+*/
